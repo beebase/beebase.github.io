@@ -16,6 +16,6 @@
   }
 }
 
-body {
-  background : darkred;
+h1 {
+  font-family: Consolas, Helvetica, Arial, sans-serif;
 }
