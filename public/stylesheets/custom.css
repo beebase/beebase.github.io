@@ -15,3 +15,7 @@
     background : url("http://griddle.it/1140px-12-30px") repeat-y center top !important;
   }
 }
+
+.container {
+  background-color: #4caf50;
+}
