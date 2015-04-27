@@ -16,6 +16,6 @@
   }
 }
 
-body {
-  background : darkred;
+.container {
+  background-color : #66a6c1;
 }
